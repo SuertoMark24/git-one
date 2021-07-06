@@ -2,5 +2,6 @@ body{
     background-color: #ccc;
     color:red;
     padding:20px;
-
+    border:none;
+    outline:none;
 }
